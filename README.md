@@ -25,9 +25,7 @@ This repository provides a practical implementation example for using React with
    ```
 2. Install dependencies:
    ```bash
-   npm install
-   # or
-   yarn install
+   pnpm install
    ```
 
 ### Running the App
@@ -35,9 +33,7 @@ This repository provides a practical implementation example for using React with
 To start the development server:
 
 ```bash
-npm start
-# or
-yarn start
+pnpm start
 ```
 
 The app should now be running at [http://localhost:3000](http://localhost:3000).
